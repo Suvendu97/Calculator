@@ -20,6 +20,8 @@ body{
 }
 #result{
 	height: 120px;
+	border-style: solid;
+	border-color: #a7a9218c;
 
 }
 #history{
